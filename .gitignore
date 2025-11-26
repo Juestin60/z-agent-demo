@@ -1,0 +1,15 @@
+# Python scripts and cache
+*.pyc
+__pycache__/
+*.py
+*.txt
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
